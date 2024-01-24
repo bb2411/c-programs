@@ -1,0 +1,5 @@
+SR.NO			NAME			DEPARTMENT			ENROLL.NO
+3			     sahil			mechanical			45631258
+6			    shivla			mechanical			456258
+SR.NO			NAME			DEPARTMENT			ENROLL.NO
+2			    aditya			mechanical			7853624
